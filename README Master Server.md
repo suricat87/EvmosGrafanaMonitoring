@@ -1,7 +1,7 @@
 # Master Monitoring Server
 
 ### WARNING!
-**To prevent possible malfunctions, we strongly recommend that you install the Master Monitoring Server on a computer different from the one on which your node is installed.**
+**To prevent possible malfunctions, we strongly recommend that you install the Master Monitoring Server on a computer different from the one where your node is installed.**
 
 ## Install software
 
